@@ -22,3 +22,9 @@
 h1, h2, h3, p {
     padding-bottom: 1rem;
 }
+
+img {
+    width: 250px;
+    height: auto;
+    max-width: 100%;
+}
